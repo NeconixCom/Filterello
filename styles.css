@@ -1,0 +1,22 @@
+#content {
+  overflow: hidden;
+}
+
+.settings-form {
+  margin-bottom: 20px;
+}
+
+.settings-checkbox-text {
+  font-weight: normal;
+  margin-left: 10px;
+}
+
+.settings-select {
+  font-weight: normal;
+}
+
+.settings-select-text {
+  font-weight: normal;
+  margin-bottom: 6px;
+  margin-top: 10px;
+}

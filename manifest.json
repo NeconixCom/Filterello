@@ -1,0 +1,21 @@
+{
+  "name": "Filterello",
+  "details": "Enhance card visibility on your board with the Filterello Power-Up:\n\n* **View recently created or updated cards.** Access recent cards from the board view.\n* **Flag cards for follow up.** View flagged cards from the board view. Manage your personal flags from the card view.\n\n### Screenshots\n\n![Filterello Board View](https://neconixcom.github.io/Filterello/images/filterello-board-view-screenshot.png)",
+  "icon": {
+    "url": "./images/filterello-icon.svg"
+  },
+  "author": "Neconix",
+  "capabilities": [
+    "board-buttons",
+    "callback",
+    "card-badges",
+    "card-buttons",
+    "card-detail-badges",
+    "show-settings"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  }
+}

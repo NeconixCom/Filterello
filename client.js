@@ -153,8 +153,8 @@ Filterello = {
             if (flagged) {
               return Promise.resolve([
                 {
-                  title: 'Flag',
-                  text: 'Red',
+                  title: 'Flagged',
+                  text: 'Yes',
                   color: 'red'
                 }
               ])

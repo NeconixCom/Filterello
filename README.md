@@ -1,4 +1,4 @@
-# Filterello 1.1.0
+# Filterello 1.2.0
 
 Enhance card visibility on your board with the Filterello Power-Up:
 

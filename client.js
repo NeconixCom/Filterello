@@ -201,7 +201,7 @@ Filterello = {
     },
 
     _getShowFlagOnCardBackProperty: function (t) {
-      return t.get('board', 'private', 'com.neconix.filterello.showFlagOnCardBack', false)
+      return t.get('board', 'private', 'com.neconix.filterello.showFlagOnCardBack', true)
     },
 
     _setShowFlagOnCardBackProperty: function (t, showFlagOnCardBack) {
